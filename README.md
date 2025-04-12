@@ -24,7 +24,7 @@
 
 ## 🔗 Контакты
 
-📧 Email: your.email@example.com  
+📧 Email: m.kalyackina@yandex.ru  
 🔊 Telegram: [@gvozdetskaya_mi](https://t.me/gvozdetskaya_mi)  
 💻 GitHub: [MariyaGvozdetskay](https://github.com/MariyaGvozdetskaya/MariyaGvozdetskaya)
 
