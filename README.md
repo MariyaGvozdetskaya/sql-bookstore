@@ -25,7 +25,7 @@
 ## 🔗 Контакты
 
 📧 Email: your.email@example.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+🔊 Telegram: [@gvozdetskaya_mi](https://t.me/gvozdetskaya_mi)  
+💻 GitHub: [MariyaGvozdetskay](https://github.com/MariyaGvozdetskaya/MariyaGvozdetskaya)
 
 
