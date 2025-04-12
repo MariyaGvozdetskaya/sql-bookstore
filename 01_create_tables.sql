@@ -56,6 +56,20 @@ VALUES ('Москва', 5),
        ('Санкт-Петербург', 3),
        ('Владивосток', 12);
 
+CREATE TABLE supply(
+    supply_id INT PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(50),
+    author VARCHAR(30),
+    price DECIMAL(8, 2),
+    amount INT);
+
+INSERT INTO supply (title, author, price, amount) 
+VALUES 
+    ('Лирика','Пастернак Б.Л.', 518.99, 2),
+    ('Черный человек', 'Есенин С.А.', 570.20, 6),
+    ('Белая гвардия', 'Булгаков М.А.', 540.50, 7),
+    ('Идиот', 'Достоевский Ф.М.', 360.80, 3)
+
 CREATE TABLE client (
     client_id INT PRIMARY KEY AUTO_INCREMENT,
     name_client VARCHAR(50),
